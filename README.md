@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
 <h3 align="center">A passionate Full Stack Web Developer From India</h3>
 
-- 🔭 I’m currently working on **Cynthia Ugwu**
+- 🔭 I’m currently working on **Internship- CODSOFT**
 
 - 🌱 I’m currently learning **Angular.js, MangoDB**
 
