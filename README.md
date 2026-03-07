@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
 <h3 align="center">A passionate Full Stack Web Developer From India</h3>
 
-- 🔭 I’m currently working on **Internship- CODSOFT**
+- 🔭 I’m currently Studying on ** COHORT 2.0**
 
-- 🌱 I’m currently learning **Angular.js, MangoDB**
-
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-six-bay.vercel.app/](https://personal-portfolio-six-bay.vercel.app/)
-
-- 💬 Ask me about **React, Node.js, TailwindCss**
+- 🌱 I’m currently learning ** MangoDB**
 
 - 📫 How to reach me **axujjwal@gmail.com**
-
-- ⚡ Fun fact **I'm not from a Teach Background**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
